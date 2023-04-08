@@ -31,11 +31,16 @@ In the .cargo folder, you will see what commands you can use with 'cargo' to do 
 
 Inside the src folder:
 
-#state.rs
+```markdown
+# state.rs
+
 This for the state that will live on-chain
 
-#msg.rs
+# msg.rs
+
 This is for the way the user will interact with the contract
 
-#contract.rs
+# contract.rs
+
 This is for the logic in the contract
+```
