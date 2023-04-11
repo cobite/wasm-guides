@@ -2,14 +2,14 @@
 
 A bunch of documentation for getting started with CosmWasm.
 
-[setup](/documentation/SETUP.md)
+[setup](/documentation/setup)
 
-[junod](/documentation/JUNOD.md)
+[junod](/documentation/junod)
 
-[wasm](/documentation/WASM.md)
+[wasm](/documentation/wasm)
 
-[docker](/documentation/DOCKER.md)
+[docker](/documentation/docker)
 
-[creating_wasm](/documentation/CREATING_WASM.md)
+[creating_wasm](/documentation/creating_wasm)
 
-[interacting_wasm](/documentation/INTERACTING_WASM.md)
+[interacting_wasm](/documentation/interacting_wasm)
